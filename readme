@@ -1,0 +1,40 @@
+
+
+# 🌾 Crop Production Dashboard
+
+## 📌 Overview
+
+This project is a **Crop Production Dashboard** built to analyze and visualize agricultural data such as crop yield, rainfall, fertilizer usage, and production trends across different states. The dashboard helps stakeholders, policymakers, and farmers to make data-driven decisions for better crop management and resource allocation.
+
+It integrates multiple datasets including crops, states, rainfall, and fertilizers to provide a **comprehensive view of agricultural performance**.
+
+---
+
+## ✨ Features
+
+* 📊 **Interactive Dashboard** – Displays production trends, rainfall data, fertilizer usage, and crop distribution.
+* 🌍 **State-Wise Analysis** – Compare crop performance across multiple states.
+* 🌧️ **Rainfall Impact** – Visualize average rainfall vs. crop production.
+* 🧪 **Fertilizer Insights** – Identify the most used fertilizers and their impact.
+* 📈 **Performance Recommendations** – Strategic insights to prioritize high-performing or underperforming regions.
+
+---
+
+## 📂 Dataset Used
+
+* **Crops Data** – Different crop types (Barley, Cotton, Maize, Rice, Wheat, etc.)
+* **States Data** – Crop production across Indian states
+* **Rainfall Data** – Annual rainfall values mapped with crop production
+* **Fertilizers Data** – Usage of Urea, DAP, MOP, Super Phosphate, etc.
+
+---
+
+## 📊 Key Visuals in Dashboard
+
+* **Total Crops, States, and Production** – Summary KPIs
+* **Crop Production by Year (Pie Chart)** – Crop share in overall production
+* **Total Production (Bar Graph)** – State-wise yield comparison
+* **Average Rainfall (Line Graph)** – Rainfall vs. production trend
+* **Most Used Fertilizers (Bar Graph)** – Fertilizer consumption patterns
+* **Crop Production (Area Graph)** – Production changes over years
+
